@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "eunjae",
-    image: "https://img.freepik.com/free-photo/cute-girl-with-blond-hair-blue-eyes-3d-rendering_1142-51238.jpg?t=st=1714376570~exp=1714380170~hmac=e7f76ddf941cb1ad3f9527e55560af490b2060bf7a1fef3ac4d483ce856f2db3&w=1380", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "blockchain developer",
     bio: "I develop everything using node.",
     email: "yoonej111@gmail.com",
